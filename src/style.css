@@ -13,11 +13,131 @@ font-size: 60px;
 border: solid 10px white;
 border-top: transparent;
 border-bottom: transparent;
+/* con estos 3 yo pude centrar el h1 junto con los bordes */
+width: 80%; 
+margin: 0 auto; 
+box-sizing: border-box;
+
 }
 
 h2{
     color: white;
+    margin-left: 7%;
+    background-color: rgb(188, 16, 92);
+    /* color: rgb(137, 0, 48); */
+    
 }
 h3 {
-    color: rgb(137, 0, 48);
+    margin-left: 85%;
+    color: rgb(225, 19, 100);
+   /*  background-color:rgb(188, 16, 92) ; */
+background-color: white  ;
 }
+p {
+background-color: white;
+font-size: 15px;
+/* width: 805px; */
+text-align: left;
+/* margin-left: 235px; */
+/* padding: 41px; */
+}
+button{
+    font-size: 19px;
+    background-color: rgb(44, 143, 32);
+    color: white;
+    padding-left: 53%;
+    padding-right: 53%;
+    border: solid 1px rgb(44, 143, 32); 
+    border-radius: 9%;
+    padding: 15px;
+    margin-left: 600px;
+    margin-bottom: 100px;
+}
+hr{
+background-color: white;
+border-top: 3px dotted rgb(188, 16, 92);
+
+}
+
+/* class */
+
+.imagen {
+    width: 98%;
+}
+.negro-transparente {
+background-color: rgb(188, 16, 92);
+width: 80%; 
+margin: 0 auto; 
+height: auto; 
+padding-bottom: 20px; 
+border-radius: 4px;
+}
+.blanco {
+    background-color: white;
+    width: 90%;
+    margin-left: 100px;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .negro-transparente {
+background-color: white;
+text-align: center;
+padding: 100px;
+/* width: 800px; 
+padding-left: 30%;
+padding-right: 31%;  
+width: 80%; 
+margin: 0 auto; 
+
+
+}  
+*/
+
+
+/* .imagen {
+    width: 70%;
+    height: 2%;
+
+} */
+
+/* .afuera-llueve {
+    background-color: rgb(188, 16, 92);
+    width: 70%px;
+    height: 1100px;
+    padding-left: 10%;
+} */
