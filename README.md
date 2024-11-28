@@ -1,0 +1,4 @@
+# Comentarios Generales sobre el desafío
+Buenas tardes, acá dejo el último desafío número 6, hasta el momento no esta terminada la parte 2, debido al tiempo, pero de acá a la semana que viene esto va a estar terminado y estilisado, mientras que la primera parte(desafío inicial)
+## Comentarios sobre la PRIMERA PARTE del desafío
+se que hay cosas que aún no están listas, que quiza utilicé mal herramientas como algunas clases, elementos, selectores, me volví loco haciendo la primera parte y que quede lo más parecido posible, se que hay tamaños, tipografías que no están igual, me salió mal los bordes dentro de los contenedores principales en la cual parece que se juntaron elementos con otros(quizá duplicados) entonces algunos bordes no se convertían, algunos espaciados o el hover en le botón "Comprar", voy a aprender a hacerlo porque no lo se, lo haré para la próxima. Saludos y muchas gracias.
