@@ -78,6 +78,17 @@ border-radius: 4px;
     margin-left: 100px;
     border-radius: 4px;
 }
+.final {
+    background-color: rgb(233, 96, 147);
+    width: 1500px;
+    height: auto;
+    margin-left: 180px;
+    margin-top: 25px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 6px;
+    color: white;
+}
 
 
 
